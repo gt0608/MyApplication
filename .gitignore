@@ -1,0 +1,64 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+＃构建应用程序文件
+* .apk文件
+* .ap_
+
+＃ART / Dalvik VM的文件
+* .DEX
+
+＃Java类文件
+*。类
+
+＃生成的文件
+斌/
+GEN /
+输出/
+
+＃Gradle文件
+.gradle /
+建立/
+
+＃本地配置文件（sdk路径等）
+local.properties
+
+＃Proguard文件夹由Eclipse生成
+ProGuard的/
+
+＃ 日志文件
+* .LOG
+
+＃Android Studio导航编辑器临时文件
+。导航/
+
+＃Android Studio捕获文件夹
+捕获/
+
+＃Intellij
+* .iml
+.idea / workspace.xml
+.idea / tasks.xml
+.idea / gradle.xml
+.idea /字典
+.idea /库
+
+＃密钥库文件
+* .jks
+
+＃在Android Studio 2.2及更高版本中生成的外部本机构建文件夹
+.externalNativeBuild
+
+＃Google服务（例如API或Firebase）
+谷歌，services.json
+
+＃Freeline
+freeline.py
+空闲线/
+freeline_project_description.json
